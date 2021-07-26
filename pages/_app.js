@@ -13,7 +13,7 @@ function MyApp({ Component, pageProps }) {
           href="https://image.flaticon.com/icons/png/512/270/270006.png"
         />
       </Head>
-      <Component {...pageProps} />
+      <Component {...pageProps}/>
     </Provider>
   );
 }
